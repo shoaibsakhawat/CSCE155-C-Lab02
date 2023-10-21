@@ -18,7 +18,10 @@ int main()
     new_britishPound = remaning_USD * 0.5  * britishPound;
 
   
-
+  printf("Fee (10%): %0.2f\n",exchange_rate);
+    printf("You gets:\n");
+    printf("%0.2lf britishPound\n",new_britishPound);
+    printf("%.0f japanniceYen\n",new_jappanieseYen);
 
 
 
