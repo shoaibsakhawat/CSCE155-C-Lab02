@@ -21,7 +21,11 @@ Hello, dennisritchie.  You are 0 years, 0 weeks, and 0 days old today
 language, the object-oriented extension of C, was born on
 December 30th, 1950.  How old is he today?
 
+Today is 2023/10/21
+Your birthday was 1980/12/30
+Hello, bjarnestroustrup.  You are 42 years, 42 weeks, and 1 days old today
 
+20 years difference as compaire to original year due to output error
 
 
 3. Software testing often involves testing code with known
