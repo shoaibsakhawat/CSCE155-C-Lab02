@@ -12,6 +12,11 @@ int main()
 
     exchange_rate = (dollar/10);
     
+    remaning_USD = dollar - exchange_rate;
+
+    new_jappanieseYen = remaning_USD * 0.5  * japanniceYen;
+    new_britishPound = remaning_USD * 0.5  * britishPound;
+
   
 
 
