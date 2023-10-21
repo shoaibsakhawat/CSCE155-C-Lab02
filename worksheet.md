@@ -73,11 +73,26 @@ the exchange amounts for the following inputs:
 
   a) $250.25
 
+  Fee (10): 25.02
+You gets:
+88.96 britishPound
+14375 japanniceYen
+
   b) $1,000.52
+
+Enter the total amount of US Dollars: 1000.52
+Fee (10): 100.05
+You gets:
+355.68 britishPound        
+57472 japanniceYen
 
   c) $968,410.12
 
-
+Enter the total amount of US Dollars: 1000.52
+Fee (10): 100.05
+You gets:
+355.68 britishPound        
+57472 japanniceYen
 
 6. Suppose that you had used only `int` types
 in your conversion program.  Would you be able
