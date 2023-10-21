@@ -11,6 +11,9 @@ was born on September 9th, 1941.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
 
+Today is 2023/10/21
+Your birthday was 1941/09/09
+Hello, dennisritchie.  You are 0 years, 0 weeks, and 0 days old today
 
 
 
