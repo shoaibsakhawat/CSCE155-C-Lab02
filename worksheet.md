@@ -35,7 +35,13 @@ program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the
 results you observe.
 
+Today is 2023/10/21
+Your birthday was 2004/08/16
+Hello, abbas.  You are 19 years, 9 weeks, and 3 days old today.
 
+Today is 2023/10/21
+Your birthday was 
+Hello, ali.  You are 20 years, 28 weeks, and 0 days old today.
 
 
 4. Complete all the size and range entries below.
