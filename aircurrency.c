@@ -7,7 +7,13 @@ int main()
 
     double dollar, new_jappanieseYen = 0,new_britishPound = 0,exchange_rate = 0,remaning_USD =0;
 
+    printf("Enter the total amount of US Dollars: ");
+    scanf("%lf",&dollar);
+
+    exchange_rate = (dollar/10);
     
+  
+
 
 
 
