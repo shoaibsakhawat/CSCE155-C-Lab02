@@ -44,25 +44,27 @@ Your birthday was
 Hello, ali.  You are 20 years, 28 weeks, and 0 days old today.
 
 
+
+
 4. Complete all the size and range entries below.
 
 * `char`
   size: 1 byte
   range: -128 to 127
 * `short int`
-  size:
-  range:
+  size: 2 bytes
+  range: -32768 to 32767
 * `int`
-  size:
-  range:
+  size:-2147483648 to 2147483647
+  range:4 bytes
 * `long int`
-  size:
-  range:
+  size:-2147483648 to 2147483647
+  range:4 bytes
 * `float`
-  size:
+  size:4 bytes
   range: 7 digits of accuracy
 * `double`
-  size:
+  size:8 bytes
   range: 15 digits of accuracy
 
 
